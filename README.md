@@ -1,92 +1,58 @@
-# Tyrone Meijn
+# Tyrone Meijn  
+
+[toc]
+
+## GitHub and GitLab merged contributions
 
 ![tmeijn GitHub/GitLab Merged Contribution with Contra](https://image.thum.io/get/width/600/fullpage/maxAge/24/wait/2/https://contra-psi.vercel.app/?githubUsername=tmeijn&gitlabUsername=tmeijn)
 
-## Getting started
+## Preferred Working Style
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+* I prefer to work Remote and am a huge Advocate. At the same time I also like to meet face-to-face occassionally, to build the relationship non-work related.
+* I do my best work in the early morning and late afternoon.
+* I tend to set pomodoro timers (1 hour) where I close Slack and Teams to focus on the task at hand.
+* When I get sucked into a specific thing, I might stay up all night and sleep the next day. I'll let you know when this happens, so I don't miss anything important.
+* I can make morning meetings, but I prefer meetings in the afternoon for the above reasons.
+* I'm pretty strict about my working hours and will not make exceptions very lightly. I want to be 100% with my family and I need strict hours for that.
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
 
-## Add your files
+## Communication style
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+* English is not my native language and I only have a pretty good mastery of it, but could definitely be improved. Sometimes I may search for the correct word that I'm translating from Dutch to English. Please be patient with me when that happens.
+* I ask questions. I am not afraid of not knowing things, and I will seek for help whenever necessary. If it feels like I am questioning you it is because I am either:
+    * trying to gather context or,
+    * trying to understand if everyone is on the same page.
+* Based on the above: I tend to prefer a lot of context so I can make the best decision possible. That can lead to me asking questions that may be obvious to you. Know that I'm just trying to gather context.
 
-```
-cd existing_repo
-git remote add origin https://gitlab.com/tmeijn/tmeijn.git
-git branch -M main
-git push -uf origin main
-```
+### Feedback
 
-## Integrate with your tools
+* I love getting feedback as that is one of the major ways to grow. For me, it might not feel comfertable at the given moment, but I'm always trying to take your feedback seriously and incorporate it into my potential growth.
+* I enjoy receiving public praise, but private praise fuels me.
+* I value stability and predictablity - I hate feeling uncomfortable. Sometimes I can react negatively to change but I do my best to embrace it and keep a positive mindset. I recognize that growing means feeling uncomfortable.
 
-- [ ] [Set up project integrations](https://gitlab.com/tmeijn/tmeijn/-/settings/integrations)
+## Availability
 
-## Collaborate with your team
+My timezone is [CET](https://time.is/CET). I generally work from ~08:00 to ~16:30. I like to start my day with running and training at home and then starting around ~08:00 fresh and motivated. I'm pretty strict with my cut-off time and will go into my shutdown routine at around ~16:00, but I can always make exceptions.
 
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Automatically merge when pipeline succeeds](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
+During this time...
 
-## Test and Deploy
+* You will see my calendar blocked with a Busy event whenever I take personal time during the day.
+* If you see a good time on my calendar inside my working hours, please schedule something (no need to ask first). You can do so either via Google Calendar (preferred) or using my Calendly page.
+* If you need to reschedule something, go ahead! All my calendar events are set with modify privileges and you should feel free to go ahead and move it to some other time slot that is within business hours and not conflicting with other meetings.
+* Friday is my meeting-free day. If my schedule is open, DM me on Slack and I will make sure we talk that day.
 
-Use the built-in continuous integration in GitLab.
+How to reach me...
 
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing(SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
+* **Phone:** I rather not to be contacted on text message/WhatsApp. I might not actively be on Slack so feel free to call me when it is urgent.
+* **Slack:** DM or mention is the best way to reach me during the day.
+* **Email:** I read my emails multiple times a day but I will default to my weekly plan for priorities. You should not feel obligated to read or respond to any messages you receive from me outside of your normal hours.
+* **GitLab & GitHub:** Please @ me directly in comments in GitLab/GitHub so I see your message, and assign MRs to me.
 
-***
 
-# Editing this README
+## Inspiration
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thank you to [makeareadme.com](https://www.makeareadme.com/) for this template.
-
-## Suggestions for a good README
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
-
-## Name
-Choose a self-explaining name for your project.
-
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
-
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
-
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
-
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
-
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
-
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
-
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
-
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
-
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
-
-## License
-For open source projects, say how it is licensed.
-
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+* [README of Brendan O'leary (ProjectDiscovery)](https://boleary.dev/readme/)
+* [README of Sam Wiskow (GitLab)](https://gitlab.com/swiskow/swiskow/-/blob/main/README.md)
+* [README of Austin Regnery (GitLab)](https://gitlab.com/aregnery)
+* [README of Tim Glaser (PostHog)](https://posthog.com/handbook/company/team/tim-glaser)
+* [README of Wade Williams](https://github.com/wadewilliams/wadewilliams)
