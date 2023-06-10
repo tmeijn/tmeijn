@@ -1,6 +1,6 @@
 # Tyrone Meijn
 
-![tmeijn GitHub/GitLab Merged Contribution with Contra](https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/2/https://contra-psi.vercel.app/?githubUsername=tmeijn&gitlabUsername=tmeijn)
+![tmeijn GitHub/GitLab Merged Contribution with Contra](https://image.thum.io/get/width/600/fullpage/maxAge/24/wait/2/https://contra-psi.vercel.app/?githubUsername=tmeijn&gitlabUsername=tmeijn)
 
 ## Getting started
 
