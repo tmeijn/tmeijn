@@ -1,4 +1,4 @@
-# Tyrone Meijn  
+# Tyrone Meijn's Readme  
 
 [toc]
 
@@ -32,7 +32,7 @@
 
 ## Availability
 
-My timezone is [CET](https://time.is/CET). I generally work from ~08:00 to ~16:30. I like to start my day with running and training at home and then starting around ~08:00 fresh and motivated. I'm pretty strict with my cut-off time and will go into my shutdown routine at around ~16:00, but I can always make exceptions.
+My timezone is [CET/CEST](https://time.is/CET). I generally work from ~08:00 to ~18:00. I like to start my day fresh with running and training at home and then starting around ~08:00 fresh and motivated. I'm pretty strict with my cut-off time and will go into my shutdown routine at around ~16:00, but I can always make exceptions.
 
 During this time...
 
